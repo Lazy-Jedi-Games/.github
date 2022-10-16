@@ -1,7 +1,7 @@
 # Lazy Jedi
 Hi there, welcome to Lazy Jedi Games, here you will find some of my public domain Games or Libraries that you can use.
 
-#🌈 Contribution guidelines
+# Contribution guidelines
 Not sure yet about this, but contribute for the betterment of the Project I guess.
 
 # Credits
